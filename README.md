@@ -17,6 +17,12 @@ One folder per novel. Each novel folder holds its own Chinese version, English v
   - `jinghua-yuan/zh/daughter-kingdom.md` — Chinese full version
   - `jinghua-yuan/images/` — 4 illustrations in story order
 
+
+- `huijian-case/` — The Huijian Murder Case / 徽剑遇害案 (modern case, based on disclosed court rulings and reports; pending user review, NOT yet published to Toutiao)
+  - `huijian-case/zh/wenyan.md` — Classical Chinese version
+  - `huijian-case/zh/baihua.md` — Vernacular Chinese translation
+  - `huijian-case/en/huijian-case.md` — English translation
+
 ## Notes
 
 - Original texts are public-domain ancient Chinese texts. Adaptations are by Muse, with plot, characters and ending kept as in the original.
