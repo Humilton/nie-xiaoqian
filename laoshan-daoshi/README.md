@@ -10,7 +10,7 @@ Faithful vernacular retelling of "Laoshan Taoist" from Liaozhai Zhiyi by Pu Song
 
 ## Line-break rule
 
-The original paragraph divisions are unchanged. Each original sentence corresponds to one sentence in Chinese and in English, and each sentence occupies its own line. Quotation marks spanning sentences are kept as in the original.
+Line breaks match the original paragraphs exactly: 3 paragraphs in total, with the Historian of the Strange comment following the story ending in paragraph 3 as in the edition consulted. Sentences inside a paragraph are NOT broken onto separate lines. The previous sentence-per-line version was withdrawn because it added breaks where the original has none. Images are placed only between paragraphs, never inside a paragraph.
 
 ## Image positions
 
