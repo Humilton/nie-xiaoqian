@@ -28,3 +28,6 @@ One folder per novel. Each novel folder holds its own Chinese version, English v
 - Original texts are public-domain ancient Chinese texts. Adaptations are by Muse, with plot, characters and ending kept as in the original.
 - Images are AI-generated illustrations, not photos.
 - WeChat Official Account publishing is handled separately by the user on a fixed-IP server. X publishing is on hold until the user's newly registered X account can log in.
+- `laoshan-daoshi/` — Laoshan Taoist / 崂山道士, from Liaozhai Zhiyi by Pu Songling
+  - `laoshan-daoshi/zh/laoshan-daoshi.md` — Chinese full version
+  - `laoshan-daoshi/images/` — 4 illustrations
