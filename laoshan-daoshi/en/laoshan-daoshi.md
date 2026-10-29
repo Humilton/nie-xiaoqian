@@ -2,81 +2,20 @@
 
 Source: “Laoshan Taoist” from Liaozhai Zhiyi by Pu Songling of the Qing dynasty. This version is translated into English by Muse, following the original plot, characters and ending, with nothing added, nothing removed and nothing changed.
 
-There was a Wang Sheng in the county, seventh in his family, a son of an official family.  
-From childhood he admired the Dao, heard that there were many immortals on Mount Lao, and set out carrying his book box to visit them.  
-He climbed to the top of a peak, where there was a temple, very secluded.  
-A Taoist sat on a rush mat, his white hair hanging down to his collar, yet his spirit bright and vigorous.  
-Wang bowed to him and talked with him; the Taoist’s reasoning was very profound and mysterious.  
-Wang asked to become his disciple. The Taoist said, “I fear you are too delicate and cannot endure hardship.”  
-Wang answered, “I can.”  
-The Taoist had very many disciples; by dusk they had all gathered, Wang bowed to each of them, and so he stayed in the temple.
+There was a Wang Sheng in the county, seventh in his family, a son of an official family.From childhood he admired the Dao, heard that there were many immortals on Mount Lao, and set out carrying his book box to visit them.He climbed to the top of a peak, where there was a temple, very secluded.A Taoist sat on a rush mat, his white hair hanging down to his collar, yet his spirit bright and vigorous.Wang bowed to him and talked with him; the Taoist’s reasoning was very profound and mysterious.Wang asked to become his disciple. The Taoist said, “I fear you are too delicate and cannot endure hardship.”Wang answered, “I can.”The Taoist had very many disciples; by dusk they had all gathered, Wang bowed to each of them, and so he stayed in the temple.
 
 ![Image 1: Laoshan temple, Wang Sheng bows to the white-haired old Taoist, disciples nearby](../images/1-temple-meeting.webp)
 
-In the early morning, the Taoist called Wang to go, gave him an axe, and sent him with the others to gather firewood.  
-Wang respectfully accepted the instruction.  
-After more than a month, his hands and feet were covered with thick calluses, and he could no longer bear the hardship, so he secretly formed the intention to go home.  
-One evening when he came back, he saw two guests drinking with his master; the day was already dark, and no lamp or candle had yet been lit.  
-The master cut a piece of paper like a mirror and pasted it on the wall; after a short while, moonlight shone brightly through the room, so clear that even the finest hair could be seen.  
-All the disciples gathered around to watch and hurried about to listen.  
-One guest said, “On such a fine night, with such fine music, we cannot enjoy it alone.”  
-So he took the wine pot from the table, shared it among the disciples, and urged everyone to drink to their fill.  
-Wang thought to himself: with seven or eight people, how could one pot of wine be enough for everyone?  
-So everyone found cups and bowls of their own and competed to drink them dry, fearing the pot would run out, yet as they poured again and again, it did not decrease at all, and he thought this strange.  
-After a while, one guest said, “Having been granted this moonlight to shine on us, to drink on in silence is too lonely — why not summon Chang’e here?”  
-So he threw a chopstick into the moonlight.  
-A beautiful woman was seen coming out of the light; at first she was less than a foot tall, but when she reached the ground she was as tall as a person.  
-With a slender waist and an elegant neck, she danced gracefully, performing the “Rainbow Skirt Dance.”  
-When she had finished dancing, she sang: “Fairy, fairy! Will you return? Will you seclude me in Guanghan Palace?”  
-Her voice was clear and far-reaching, as loud as a flute or pipe.  
-When she had finished singing, she whirled up, leapt onto the table, and in the moment everyone looked back in surprise, she had turned back into a chopstick.  
-The three of them laughed loudly.  
-Another guest said, “Tonight is the happiest, but I can no longer hold my drink — could you escort me to drink in the Moon Palace?”  
-The three of them moved their seats and gradually entered the moonlight.  
-The others watched the three of them sitting in the moonlight drinking, their eyebrows and beards all clearly visible, like reflections in a mirror.  
-After a while the moonlight gradually dimmed, and the disciples came in with candles, only to find the Taoist sitting alone, while the guests had vanished.  
-The dishes and fruit on the table were still there; the moon on the wall was nothing but a round piece of paper, like a mirror.  
-The Taoist asked the others, “Have you drunk enough?”  
-They said, “We have had enough.”  
-The Taoist said, “If you have had enough, you should go to sleep early, and not miss the firewood gathering.”  
-They all agreed and withdrew.  
-Wang secretly admired this, and his intention to go home vanished.
+In the early morning, the Taoist called Wang to go, gave him an axe, and sent him with the others to gather firewood.Wang respectfully accepted the instruction.After more than a month, his hands and feet were covered with thick calluses, and he could no longer bear the hardship, so he secretly formed the intention to go home.One evening when he came back, he saw two guests drinking with his master; the day was already dark, and no lamp or candle had yet been lit.The master cut a piece of paper like a mirror and pasted it on the wall; after a short while, moonlight shone brightly through the room, so clear that even the finest hair could be seen.All the disciples gathered around to watch and hurried about to listen.One guest said, “On such a fine night, with such fine music, we cannot enjoy it alone.”So he took the wine pot from the table, shared it among the disciples, and urged everyone to drink to their fill.Wang thought to himself: with seven or eight people, how could one pot of wine be enough for everyone?So everyone found cups and bowls of their own and competed to drink them dry, fearing the pot would run out, yet as they poured again and again, it did not decrease at all, and he thought this strange.After a while, one guest said, “Having been granted this moonlight to shine on us, to drink on in silence is too lonely — why not summon Chang’e here?”So he threw a chopstick into the moonlight.A beautiful woman was seen coming out of the light; at first she was less than a foot tall, but when she reached the ground she was as tall as a person.With a slender waist and an elegant neck, she danced gracefully, performing the “Rainbow Skirt Dance.”When she had finished dancing, she sang: “Fairy, fairy! Will you return? Will you seclude me in Guanghan Palace?”Her voice was clear and far-reaching, as loud as a flute or pipe.When she had finished singing, she whirled up, leapt onto the table, and in the moment everyone looked back in surprise, she had turned back into a chopstick.The three of them laughed loudly.Another guest said, “Tonight is the happiest, but I can no longer hold my drink — could you escort me to drink in the Moon Palace?”The three of them moved their seats and gradually entered the moonlight.The others watched the three of them sitting in the moonlight drinking, their eyebrows and beards all clearly visible, like reflections in a mirror.After a while the moonlight gradually dimmed, and the disciples came in with candles, only to find the Taoist sitting alone, while the guests had vanished.The dishes and fruit on the table were still there; the moon on the wall was nothing but a round piece of paper, like a mirror.The Taoist asked the others, “Have you drunk enough?”They said, “We have had enough.”The Taoist said, “If you have had enough, you should go to sleep early, and not miss the firewood gathering.”They all agreed and withdrew.Wang secretly admired this, and his intention to go home vanished.
 
 ![Image 2: Moonlit drinking night, paper moon on the wall, moon lady dancing the Rainbow Skirt Dance, Taoist, guests, Wang Sheng and disciples seated](../images/2-moon-night.webp)
 
-After another month, the hardship became unbearable, yet the Taoist had not taught him a single art.  
-Unable to wait any longer, he took his leave and said, “Your disciple travelled several hundred li to learn from an immortal master; even if I cannot obtain the art of long life, or if I learn even a little, it would be enough to comfort the heart of one who seeks instruction.  
-Now two or three months have passed, and it has been nothing but gathering firewood in the morning and returning in the evening.  
-At home, your disciple never knew such hardship.”  
-The Taoist laughed and said, “I said from the start that you could not endure hardship, and now it has indeed proved so.  
-Tomorrow morning I shall send you on your way.”  
-Wang said, “Your disciple has worked for many days; if the master teaches even a small art, this journey will not have been in vain.”  
-The Taoist asked, “What art do you seek?”  
-Wang said, “Everywhere I see the master go, walls cannot block him; if I could obtain only this method, it would be enough.”  
-The Taoist laughed and agreed.  
-He then passed on a secret formula, told Wang to recite the incantation himself, and called out, “Enter!”  
-Wang faced the wall and dared not enter.  
-The Taoist said again, “Try entering.”  
-Wang indeed walked forward calmly, but when he reached the wall he was blocked.  
-The Taoist said, “Bow your head and rush straight in, do not hesitate!”  
-Wang indeed stepped back a few paces from the wall and ran in; when he reached the wall, it was as if there were nothing there; looking back, he was indeed on the other side of the wall.  
-Greatly delighted, he went in to thank his master.  
-The Taoist said, “When you return home, you must keep yourself clean and disciplined, otherwise it will not work.”  
-He then helped Wang with travelling money and sent him home.  
-When he arrived home, he boasted that he had met an immortal and that even a solid wall could not block him, but his wife did not believe him.  
-Wang imitated what he had done before, stood a few feet from the wall and ran in; his head struck the hard wall, and he fell suddenly to the ground.  
-His wife helped him up and looked at him; his forehead had swollen up like a huge egg.  
-His wife mocked him.  
-Wang gradually grew angry, and only cursed the old Taoist for having no conscience.
+After another month, the hardship became unbearable, yet the Taoist had not taught him a single art.Unable to wait any longer, he took his leave and said, “Your disciple travelled several hundred li to learn from an immortal master; even if I cannot obtain the art of long life, or if I learn even a little, it would be enough to comfort the heart of one who seeks instruction.Now two or three months have passed, and it has been nothing but gathering firewood in the morning and returning in the evening.At home, your disciple never knew such hardship.”The Taoist laughed and said, “I said from the start that you could not endure hardship, and now it has indeed proved so.Tomorrow morning I shall send you on your way.”Wang said, “Your disciple has worked for many days; if the master teaches even a small art, this journey will not have been in vain.”The Taoist asked, “What art do you seek?”Wang said, “Everywhere I see the master go, walls cannot block him; if I could obtain only this method, it would be enough.”The Taoist laughed and agreed.He then passed on a secret formula, told Wang to recite the incantation himself, and called out, “Enter!”Wang faced the wall and dared not enter.The Taoist said again, “Try entering.”Wang indeed walked forward calmly, but when he reached the wall he was blocked.The Taoist said, “Bow your head and rush straight in, do not hesitate!”Wang indeed stepped back a few paces from the wall and ran in; when he reached the wall, it was as if there were nothing there; looking back, he was indeed on the other side of the wall.Greatly delighted, he went in to thank his master.The Taoist said, “When you return home, you must keep yourself clean and disciplined, otherwise it will not work.”He then helped Wang with travelling money and sent him home.When he arrived home, he boasted that he had met an immortal and that even a solid wall could not block him, but his wife did not believe him.Wang imitated what he had done before, stood a few feet from the wall and ran in; his head struck the hard wall, and he fell suddenly to the ground.His wife helped him up and looked at him; his forehead had swollen up like a huge egg.His wife mocked him.Wang gradually grew angry, and only cursed the old Taoist for having no conscience.The Historian of the Strange says: hearing this story, there is no one who does not laugh loudly, yet people do not know that there are actually quite a few Wang Shengs in the world.Now there is a vulgar man who loves the poison of his sores yet fears medicine, so there are those who lick and suck his abscesses, presenting him with arts for showing off power and violence, to suit his wishes, deceiving him by saying, “Take this art and go forward, and you can walk everywhere without obstruction.”At first trial it is not without a small effect, so he then thinks that, great as the world is, it can all be traversed in this way, and he will not stop until he strikes a hard wall and falls down.
 
 ![Image 3: Learning to pass through a wall, Taoist teaches the formula, Wang Sheng runs head down into the wall, disciples nearby](../images/3-wall-passing.webp)
 
 ![Image 4: Crashing into the wall at home, Wang Sheng fallen with a swollen forehead, his wife helping him up and mocking him](../images/4-home-wall-crash.webp)
 
-The Historian of the Strange says: hearing this story, there is no one who does not laugh loudly, yet people do not know that there are actually quite a few Wang Shengs in the world.  
-Now there is a vulgar man who loves the poison of his sores yet fears medicine, so there are those who lick and suck his abscesses, presenting him with arts for showing off power and violence, to suit his wishes, deceiving him by saying, “Take this art and go forward, and you can walk everywhere without obstruction.”  
-At first trial it is not without a small effect, so he then thinks that, great as the world is, it can all be traversed in this way, and he will not stop until he strikes a hard wall and falls down.
+---
 
-(Translated paragraph by paragraph from the original plot, with no characters removed, no plot removed, and no ending changed.)
-
-Note on line breaks: the original paragraph divisions are unchanged, each original sentence corresponds to one sentence in English, and each sentence occupies its own line; quotation marks spanning sentences are kept as in the original.
+Note: line breaks match the original paragraphs exactly, 3 paragraphs in total; sentences inside a paragraph are not broken onto separate lines; images are placed only between paragraphs, never inside a paragraph.
