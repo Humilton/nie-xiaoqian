@@ -5,7 +5,12 @@ Faithful vernacular retelling of "Laoshan Taoist" from Liaozhai Zhiyi by Pu Song
 ## Contents in this folder
 
 - `zh/laoshan-daoshi.md` — Chinese full version, including the Yishi comment as a separate section after the story
+- `en/laoshan-daoshi.md` — English full version, same paragraph and sentence line breaks as the Chinese
 - `images/` — 4 illustrations
+
+## Line-break rule
+
+The original paragraph divisions are unchanged. Each original sentence corresponds to one sentence in Chinese and in English, and each sentence occupies its own line. Quotation marks spanning sentences are kept as in the original.
 
 ## Image positions
 
@@ -16,6 +21,6 @@ Faithful vernacular retelling of "Laoshan Taoist" from Liaozhai Zhiyi by Pu Song
 
 ## Notes
 
-- Original text: public-domain ancient Chinese text. This adaptation is by Muse, with plot, characters and ending kept as in the original, no added characters, no changed ending.
+- Original text: public-domain ancient Chinese text. This adaptation is by Muse, with plot, characters and ending kept as in the original, no added characters, no changed ending. “故家子” is translated as “son of an official family.”
 - Images: AI-generated illustrations, not photos. Characters across the 4 images: Wang Sheng, the old Taoist, disciples, two guests, the moon lady, and Wang Sheng's wife.
 - Publishing: Toutiao and WeChat Official Account publishing are HELD, awaiting the user's instruction.
