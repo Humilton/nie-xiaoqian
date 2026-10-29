@@ -6,18 +6,21 @@ Faithful vernacular retelling of "Laoshan Taoist" from Liaozhai Zhiyi by Pu Song
 
 - `zh/laoshan-daoshi.md` — Chinese full version, including the Yishi comment as a separate section after the story
 - `en/laoshan-daoshi.md` — English full version, same paragraph and sentence line breaks as the Chinese
-- `images/` — 4 illustrations
+- `images/` — 5 illustrations
 
 ## Line-break rule
 
-Line breaks match the original paragraphs exactly: 3 paragraphs in total, with the Historian of the Strange comment following the story ending in paragraph 3 as in the edition consulted. Sentences inside a paragraph are NOT broken onto separate lines. The previous sentence-per-line version was withdrawn because it added breaks where the original has none. Images are placed only between paragraphs, never inside a paragraph.
+Line breaks match the user-confirmed paragraph divisions: 5 paragraphs in total — temple meeting, moonlit drinking, wall-passing, “When he arrived home,” and the Historian of the Strange comment — each as its own paragraph. Sentences inside a paragraph are NOT broken onto separate lines. The previous 3-paragraph version (with the Historian comment appended to paragraph 3) was superseded by this split.
+
 
 ## Image positions
 
 1. `images/1-temple-meeting.webp` — after the temple meeting paragraph
 2. `images/2-moon-night.webp` — after the moon-night drinking paragraph
-3. `images/3-wall-passing.webp` — after the wall-passing and home paragraph, first of two closing images
-4. `images/4-home-wall-crash.webp` — after the wall-passing and home paragraph, second closing image
+3. `images/3-wall-passing.webp` — after the wall-passing paragraph
+4. `images/4-home-wall-crash.webp` — after the “When he arrived home” paragraph
+5. `images/5-yishi-comment.webp` — after the Historian of the Strange paragraph
+
 
 ## Notes
 
