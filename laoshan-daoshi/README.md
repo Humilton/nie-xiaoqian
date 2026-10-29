@@ -6,7 +6,7 @@ Faithful vernacular retelling of "Laoshan Taoist" from Liaozhai Zhiyi by Pu Song
 
 - `zh/laoshan-daoshi.md` — Chinese full version, including the Yishi comment as a separate section after the story
 - `en/laoshan-daoshi.md` — English full version, same paragraph divisions as the Chinese
-- `storyboard.md` — Video storyboard split: 5 groups A-E by paragraph, 49 segments of 10 seconds each, planned duration 490 seconds, per the referenced Muse long-video method
+- `storyboard.md` — Video storyboard split: groups A-D by paragraph (group E excluded), 44 segments of 10 seconds each (groups A-D only; group E excluded per user instruction), planned duration 440 seconds, per the referenced Muse long-video method
 - `images/` — 5 illustrations
 
 ## Line-break rule
