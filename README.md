@@ -33,4 +33,4 @@ One folder per novel. Each novel folder holds its own Chinese version, English v
   - `laoshan-daoshi/en/laoshan-daoshi.md` — English full version
   - `laoshan-daoshi/images/` — 4 illustrations
 
-- [朱学巍与王书明：五百元与八年](zhu-xuewei-500-yuan/) — 现代新闻故事：先写文言文，再译白话文，白话版含 3 张配图，待用户审核，未发布头条号。
+- [Bowen Wan ChatGPT medication case](bowen-wan-chatgpt-medication/) — New York Post 2026-10-28 summary, 4 original images as external links in original positions, no images copied.
