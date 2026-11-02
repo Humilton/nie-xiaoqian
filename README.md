@@ -34,3 +34,7 @@ One folder per novel. Each novel folder holds its own Chinese version, English v
   - `laoshan-daoshi/images/` — 4 illustrations
 
 - [Bowen Wan ChatGPT medication case](bowen-wan-chatgpt-medication/) — New York Post 2026-10-28 summary, 4 original images as external links in original positions, no images copied.
+
+- `cao-gui-lun-zhan/` — 曹刿论战，from 左传·庄公十年，Muse faithful vernacular, no subheadings
+  - `cao-gui-lun-zhan/zh/cao-gui-lun-zhan.md` — Chinese full version
+  - `cao-gui-lun-zhan/images/` — 2 illustrations in story order
