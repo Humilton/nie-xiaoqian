@@ -43,3 +43,5 @@ One folder per novel. Each novel folder holds its own Chinese version, English v
   - `florida-learjet60-crash/zh/florida-learjet60-crash.md` — Chinese news report
   - `florida-learjet60-crash/images/` — 2 AI schematic images
   - `florida-learjet60-crash/video/` — 1 AI schematic video
+
+- 聊斋志异-清-蒲松龄/：清代蒲松龄《聊斋志异》白话翻译全书计划，12 卷 491 篇，目录骨架已建，翻译尚未开始。
