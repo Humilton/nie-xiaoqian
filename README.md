@@ -1,47 +1,48 @@
-# Ancient Text Adaptations / 古文改白话
+# 聊斋志异 · 卷一
 
-One folder per novel. Each novel folder holds its own Chinese version, English version and images, so later novels do not mix with earlier ones.
+清 · 蒲松龄《聊斋志异》卷一，凡 42 篇。白话在前，原文在后，配图随文。
 
-## Novels
+## 目录
 
-- `nie-xiaoqian/` — Nie Xiaoqian / 聂小倩, from Liaozhai Zhiyi by Pu Songling
-- `song-dingbo/` — Song Dingbo Catches a Ghost / 宋定伯捉鬼, from Soushenji by Gan Bao
-  - `song-dingbo/zh/song-dingbo.md` — Chinese full version
-  - `song-dingbo/images/` — 3 illustrations, both characters in every image
-  - `nie-xiaoqian/zh/nie-xiaoqian.md` — Chinese full version
-  - `nie-xiaoqian/en/nie-xiaoqian.md` — English full version, plus X thread draft
-  - `nie-xiaoqian/images/` — 4 illustrations in story order
-
-
-- `jinghua-yuan/` — Daughter Kingdom / 女儿国, from Jinghua Yuan by Li Ruzhen
-  - `jinghua-yuan/zh/daughter-kingdom.md` — Chinese full version
-  - `jinghua-yuan/images/` — 4 illustrations in story order
-
-
-- `huijian-case/` — The Huijian Murder Case / 徽剑遇害案 (modern case, based on disclosed court rulings and reports; pending user review, NOT yet published to Toutiao)
-  - `huijian-case/zh/wenyan.md` — Classical Chinese version
-  - `huijian-case/zh/baihua.md` — Vernacular Chinese translation
-  - `huijian-case/en/huijian-case.md` — English translation
-
-## Notes
-
-- Original texts are public-domain ancient Chinese texts. Adaptations are by Muse, with plot, characters and ending kept as in the original.
-- Images are AI-generated illustrations, not photos.
-- WeChat Official Account publishing is handled separately by the user on a fixed-IP server. X publishing is on hold until the user's newly registered X account can log in.
-- `laoshan-daoshi/` — Laoshan Taoist / 崂山道士, from Liaozhai Zhiyi by Pu Songling
-  - `laoshan-daoshi/zh/laoshan-daoshi.md` — Chinese full version
-  - `laoshan-daoshi/en/laoshan-daoshi.md` — English full version
-  - `laoshan-daoshi/images/` — 4 illustrations
-
-- [Bowen Wan ChatGPT medication case](bowen-wan-chatgpt-medication/) — New York Post 2026-10-28 summary, 4 original images as external links in original positions, no images copied.
-
-- `cao-gui-lun-zhan/` — 曹刿论战，from 左传·庄公十年，Muse faithful vernacular, no subheadings
-  - `cao-gui-lun-zhan/zh/cao-gui-lun-zhan.md` — Chinese full version
-  - `cao-gui-lun-zhan/images/` — 2 illustrations in story order
-
-- `florida-learjet60-crash/` — Florida Learjet 60 crash, 2026-11-01, news report, 9 aboard killed, NTSB investigating
-  - `florida-learjet60-crash/zh/florida-learjet60-crash.md` — Chinese news report
-  - `florida-learjet60-crash/images/` — 2 AI schematic images
-  - `florida-learjet60-crash/video/` — 1 AI schematic video
-
-- 聊斋志异-清-蒲松龄/：清代蒲松龄《聊斋志异》白话翻译全书计划，12 卷 491 篇，目录骨架已建，翻译尚未开始。
+- [001 考城隍](卷一/001-考城隍.md)
+- [002 耳中人](卷一/002-耳中人.md)
+- [003 尸变](卷一/003-尸变.md)
+- [004 喷水](卷一/004-喷水.md)
+- [005 瞳人语](卷一/005-瞳人语.md)
+- [006 画壁](卷一/006-画壁.md)
+- [007 山魈](卷一/007-山魈.md)
+- [008 咬鬼](卷一/008-咬鬼.md)
+- [009 捉狐](卷一/009-捉狐.md)
+- [010 荞中怪](卷一/010-荞中怪.md)
+- [011 宅妖](卷一/011-宅妖.md)
+- [012 王六郎](卷一/012-王六郎.md)
+- [013 偷桃](卷一/013-偷桃.md)
+- [014 种梨](卷一/014-种梨.md)
+- [015 崂山道士](卷一/015-崂山道士.md)
+- [016 长清僧](卷一/016-长清僧.md)
+- [017 蛇人](卷一/017-蛇人.md)
+- [018 斫蟒](卷一/018-斫蟒.md)
+- [019 犬奸](卷一/019-犬奸.md)
+- [020 雹神](卷一/020-雹神.md)
+- [021 狐嫁女](卷一/021-狐嫁女.md)
+- [022 娇娜](卷一/022-娇娜.md)
+- [023 僧孽](卷一/023-僧孽.md)
+- [024 妖术](卷一/024-妖术.md)
+- [025 野狗](卷一/025-野狗.md)
+- [026 三生](卷一/026-三生.md)
+- [027 狐入瓶](卷一/027-狐入瓶.md)
+- [028 鬼哭](卷一/028-鬼哭.md)
+- [029 真定女](卷一/029-真定女.md)
+- [030 焦螟](卷一/030-焦螟.md)
+- [031 叶生](卷一/031-叶生.md)
+- [032 四十千](卷一/032-四十千.md)
+- [033 成仙](卷一/033-成仙.md)
+- [034 新郎](卷一/034-新郎.md)
+- [035 灵官](卷一/035-灵官.md)
+- [036 王兰](卷一/036-王兰.md)
+- [037 鹰虎神](卷一/037-鹰虎神.md)
+- [038 王成](卷一/038-王成.md)
+- [039 青凤](卷一/039-青凤.md)
+- [040 画皮](卷一/040-画皮.md)
+- [041 贾儿](卷一/041-贾儿.md)
+- [042 蛇癖](卷一/042-蛇癖.md)
