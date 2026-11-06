@@ -3,7 +3,8 @@
 - 状态：待审核
 - 方向：职场技能
 - 日期：2026-11-06
-- 正文文件：公众号/2026/11/06/三分之一职场人承认夸大技能.md
+- 正文文件：公众号/2026/11/三分之一职场人承认夸大技能/正文.md
+- 结构调整：2026-11-06 由旧路径 公众号/2026/11/06/三分之一职场人承认夸大技能.md 移至本文件夹，文件改用短名（正文.md、README.md、1.png），正文与图片内容不变。
 - 正文篇幅：1251 字（不含图片 markdown，不含空白字符）；关键词“夸大技能”出现 7 次，密度 2.24%
 - 文言稿：本地留存于 ~/workspace/wechat-official-account/2026-11-06-kuada-jineng/文言.md，不进正文，不上 GitHub
 
@@ -58,8 +59,8 @@
 
 ## 图片
 
-- 共 1 张：三分之一职场人承认夸大技能-1.png
-- 插入位置：第 2 段（背景数字段）之后、第 3 段（压力与行动段）之前，正文内以 ![Addison Group《技能保障报告》原图：Skill Security: How Workers are Staying Competitive](三分之一职场人承认夸大技能-1.png) 嵌入。
+- 共 1 张：1.png
+- 插入位置：第 2 段（背景数字段）之后、第 3 段（压力与行动段）之前，正文内以 ![Addison Group《技能保障报告》原图：Skill Security: How Workers are Staying Competitive](1.png) 嵌入。
 - 图片来源：源文章原图，Addison Group 新闻稿页头图
   - 来源页：https://addisongroup.com/insights/americans-faked-it-to-stay-competitive-at-work/
   - 图片地址：https://addisongroup.com/wp-content/uploads/2026/10/Skill-Security-Research-Banner-1-1024x538.png
