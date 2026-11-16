@@ -4,7 +4,9 @@
 - 话题：#上联是：人不可貌相，怎么对下联#
 - 话题链接：https://mp.toutiao.com/profile_v3_public/public/forum-detail?click_position=1&forum_id=1702361862318099&forum_name=%E4%B8%8A%E8%81%94%E6%98%AF%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%B2%8C%E7%9B%B8%EF%BC%8C%E6%80%8E%E4%B9%88%E5%AF%B9%E4%B8%8B%E8%81%94&rank=9&read_num=1984982541&talk_num=1259470&title=%E4%B8%8A%E8%81%94%E6%98%AF%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%B2%8C%E7%9B%B8%EF%BC%8C%E6%80%8E%E4%B9%88%E5%AF%B9%E4%B8%8B%E8%81%94&trends_id=&vertical_name=recommend&word=%E4%B8%8A%E8%81%94%E6%98%AF%EF%BC%9A%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%B2%8C%E7%9B%B8%EF%BC%8C%E6%80%8E%E4%B9%88%E5%AF%B9%E4%B8%8B%E8%81%94
 - 话题热度（2026-11-17 06:44 页面显示）：阅读 19.8 亿，讨论 125.9 万
-- 状态：待发布（2026-11-17 试水第一篇，定时任务 toutiao-topic-daily-1800 建好后立即参与一次看效果）
+- 状态：已发布（2026-11-17 07:01，作品管理核验）。公开链接：https://www.toutiao.com/item/7708907368415658511/。发布时展现 0、阅读 0、点赞 0、评论 0。
+- 话题挂载说明：文章从话题页"发布文章"入口创建（带 forum_id、forum_name、enter_from=inspiration 参数），未在无话题情况下另行发表；但话题详情页三次加载均报网络错误、公开文章页未显示话题标签，话题列表收录情况未直观核验。
+- 草稿箱里同标题带图草稿未动（未编辑、未删除），仍在草稿箱。
 - 账号：浠水文艺
 
 ## 写法
