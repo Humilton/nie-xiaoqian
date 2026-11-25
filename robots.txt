@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://book.xpai.top/sitemap.xml
