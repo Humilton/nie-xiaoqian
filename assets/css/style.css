@@ -53,7 +53,7 @@ main{flex:1}
 .hero-text{position:absolute;top:9%;left:36%;right:5%}
 .hero h1{margin:0 0 8px;font:700 clamp(32px,4.6vw,52px)/1.2 var(--serif);letter-spacing:.22em;color:var(--ink)}
 .hero p{margin:0;max-width:26em;font-size:18px;color:var(--ink)}
-.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:22px}
 .card{display:block;overflow:hidden;border:1px solid var(--gold);border-radius:14px;background:var(--card);color:var(--ink)}
 .card:hover{text-decoration:none;border-color:var(--green)}
 .card img{width:100%;aspect-ratio:3/4;object-fit:cover}
